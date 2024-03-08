@@ -10,4 +10,8 @@ Creating the Snake Game using C++.
 - It took near a month to work on it but in the end we were satisfied about the result💪💪.
 
 <img src="/22285-snake-icon.png" position="right" width="27%" align="left" loading="eager"></img>
+
+- mahdinemo
+-aref-mipr
+-Aminklhr2
  
