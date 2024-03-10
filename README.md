@@ -1,6 +1,7 @@
 # SnakeGame
 Creating the Snake Game using C++.
 
+
 - 🍂🍂Fall 2023. For the term 2 of the usiveristy we decided to work on the Snake Game 🐍🐍.
 
 - It was hard and complicated .
